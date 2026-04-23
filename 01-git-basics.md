@@ -62,22 +62,3 @@ __pycache__/
 
 ---
 *Next: 02-branching-merging.md →*
-
-
-<!-- TODO: add more examples here -->
-
-
-## Additional Note
-
-Added some more thoughts on this topic.
-
-
-## Additional Note
-
-Added some more thoughts on this topic.
-
-
-## Resources
-
-- [Official Docs](https://docs.example.com)
-- [Tutorial](https://tutorial.example.com)
