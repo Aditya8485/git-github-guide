@@ -62,3 +62,6 @@ __pycache__/
 
 ---
 *Next: 02-branching-merging.md →*
+
+
+<!-- TODO: add more examples here -->
