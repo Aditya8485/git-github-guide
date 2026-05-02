@@ -69,3 +69,6 @@ Options: pick, squash (merge into previous), drop (delete), reword (change messa
 
 ---
 *Next: 04-github-collaboration.md →*
+
+
+<!-- TODO: add more examples here -->
