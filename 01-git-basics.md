@@ -65,3 +65,9 @@ __pycache__/
 
 
 <!-- TODO: add more examples here -->
+
+
+## Resources
+
+- [Official Docs](https://docs.example.com)
+- [Tutorial](https://tutorial.example.com)
