@@ -77,3 +77,8 @@ git stash apply         # Restore without removing
 
 ---
 *Next: 03-undoing-mistakes.md →*
+
+
+---
+
+> Note: Reviewed this section, looks good.
