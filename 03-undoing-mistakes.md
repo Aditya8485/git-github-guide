@@ -72,3 +72,8 @@ Options: pick, squash (merge into previous), drop (delete), reword (change messa
 
 
 <!-- TODO: add more examples here -->
+
+
+## Quick Tip
+
+Practice makes perfect. Don't just read — write code!
