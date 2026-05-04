@@ -82,3 +82,8 @@ main (production) ────────────────────�
 ---
 
 **Git mastery done!** Now collaborate, contribute, ship code.
+
+
+## Quick Tip
+
+Practice makes perfect. Don't just read — write code!
