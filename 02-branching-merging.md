@@ -87,3 +87,6 @@ git stash apply         # Restore without removing
 ---
 
 > Note: Reviewed this section, looks good.
+
+
+<!-- TODO: add more examples here -->
