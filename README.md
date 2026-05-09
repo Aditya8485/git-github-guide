@@ -17,3 +17,8 @@
 git config --global user.name "Your Name"
 git config --global user.email "you@example.com"
 ```
+
+
+## Additional Note
+
+Added some more thoughts on this topic.
