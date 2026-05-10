@@ -65,3 +65,8 @@ gh issue create --title "Bug" --body "Details"
 
 ---
 *Next: 05-advanced-tips.md →*
+
+
+## Additional Note
+
+Added some more thoughts on this topic.
