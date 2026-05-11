@@ -82,3 +82,6 @@ main (production) ────────────────────�
 ---
 
 **Git mastery done!** Now collaborate, contribute, ship code.
+
+
+<!-- TODO: add more examples here -->
