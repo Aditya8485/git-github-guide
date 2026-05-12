@@ -70,3 +70,8 @@ gh issue create --title "Bug" --body "Details"
 ---
 
 > Note: Reviewed this section, looks good.
+
+
+## Additional Note
+
+Added some more thoughts on this topic.
