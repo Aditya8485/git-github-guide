@@ -75,3 +75,9 @@ gh issue create --title "Bug" --body "Details"
 ## Additional Note
 
 Added some more thoughts on this topic.
+
+
+## Resources
+
+- [Official Docs](https://docs.example.com)
+- [Tutorial](https://tutorial.example.com)
