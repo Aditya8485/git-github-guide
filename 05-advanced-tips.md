@@ -85,3 +85,8 @@ main (production) ────────────────────�
 
 
 <!-- TODO: add more examples here -->
+
+
+## Quick Tip
+
+Practice makes perfect. Don't just read — write code!
