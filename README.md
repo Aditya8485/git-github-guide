@@ -22,3 +22,8 @@ git config --global user.email "you@example.com"
 ## Quick Tip
 
 Practice makes perfect. Don't just read — write code!
+
+
+## Quick Tip
+
+Practice makes perfect. Don't just read — write code!
