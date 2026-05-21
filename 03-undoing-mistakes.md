@@ -80,3 +80,8 @@ Practice makes perfect. Don't just read — write code!
 
 - [Official Docs](https://docs.example.com)
 - [Tutorial](https://tutorial.example.com)
+
+
+---
+
+> Note: Reviewed this section, looks good.
