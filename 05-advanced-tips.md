@@ -90,3 +90,8 @@ main (production) ────────────────────�
 ## Quick Tip
 
 Practice makes perfect. Don't just read — write code!
+
+
+## Additional Note
+
+Added some more thoughts on this topic.
