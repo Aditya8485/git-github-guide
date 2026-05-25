@@ -90,3 +90,8 @@ Practice makes perfect. Don't just read — write code!
 
 
 <!-- TODO: add more examples here -->
+
+
+---
+
+> Note: Reviewed this section, looks good.
