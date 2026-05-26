@@ -100,3 +100,9 @@ Added some more thoughts on this topic.
 ---
 
 > Note: Reviewed this section, looks good.
+
+
+## Resources
+
+- [Official Docs](https://docs.example.com)
+- [Tutorial](https://tutorial.example.com)
