@@ -90,3 +90,8 @@ Practice makes perfect. Don't just read — write code!
 ## Quick Tip
 
 Practice makes perfect. Don't just read — write code!
+
+
+---
+
+> Note: Reviewed this section, looks good.
