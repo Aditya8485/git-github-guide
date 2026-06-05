@@ -42,3 +42,6 @@ Added some more thoughts on this topic.
 ## Quick Tip
 
 Practice makes perfect. Don't just read — write code!
+
+
+<!-- TODO: add more examples here -->
