@@ -95,3 +95,6 @@ Practice makes perfect. Don't just read — write code!
 ---
 
 > Note: Reviewed this section, looks good.
+
+
+<!-- TODO: add more examples here -->
