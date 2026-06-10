@@ -114,3 +114,9 @@ Added some more thoughts on this topic.
 
 
 <!-- TODO: add more examples here -->
+
+
+## Resources
+
+- [Official Docs](https://docs.example.com)
+- [Tutorial](https://tutorial.example.com)
