@@ -104,3 +104,9 @@ Practice makes perfect. Don't just read — write code!
 ## Quick Tip
 
 Practice makes perfect. Don't just read — write code!
+
+
+## Resources
+
+- [Official Docs](https://docs.example.com)
+- [Tutorial](https://tutorial.example.com)
